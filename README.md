@@ -1,7 +1,7 @@
 # About This Project
 
 This script is a little project I completed during my data analytics bootcamp.
-I enjoy working within SQL and wanted to find a way to query a SQL database in Python while using SQLite syntax.
+I enjoy working within SQL and wanted to find a way to query a SQL database using SQLite syntax while in Python.
 This is the result!
 
 The script will:
