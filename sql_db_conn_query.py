@@ -36,7 +36,8 @@ def connect_db(name):
         print("CONNECTION SUCCESSFUL")
     else:
         print("CONNECTION FAILED")
-connect_db("northwind")
+#   type database name as argument        
+connect_db()
 #   define function to query database as "query"
 def query():
     #   define user input SQLite query as "q"
